@@ -1,1 +1,1 @@
-echo 'Test';
+test10
